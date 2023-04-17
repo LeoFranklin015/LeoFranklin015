@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo Franklin</h1>
 <h3 align="center">Machine Learning Maven</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on **Full stack applications and Machine Learning**
 
 - 🌱 I’m currently learning **Advance React**
